@@ -1,8 +1,8 @@
 <h1 align='center'> E-commerce</h1>
 
-> ![preview](./assets/preview.PNG)
+> ![preview](./src/assets/preview.PNG)
 >
-> ![preview](./assets/preview2.PNG)
+> ![preview2](./src/assets/preview2.PNG)
 
  ### Sobre o app 
  Site desenvolvido por mim utilizando Typescript, ReactJS e Material UI. Com a finalidade de consolidar os conceitos relacionados a essas tecnologias.
