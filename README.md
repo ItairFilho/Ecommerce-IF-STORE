@@ -5,7 +5,7 @@
 > ![preview2](./src/assets/preview2.PNG)
 
  ### Sobre o app 
- Site desenvolvido por mim utilizando Typescript, ReactJS e Material UI. Com a finalidade de consolidar os conceitos relacionados a essas tecnologias.
+ Site desenvolvido por mim utilizando TypeScript, ReactJS e Material UI. Com a finalidade de consolidar os conceitos relacionados a essas tecnologias.
 
 ### Tecnologias utilizadas 🛠️:
 > - TypeScript
